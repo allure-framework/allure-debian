@@ -16,8 +16,6 @@ DEB_DH_INSTALLINIT_ARGS := --no-start
 JAVA_HOME := $(shell update-alternatives --query javac | grep Best: | cut -d " " -f2 | sed 's|/bin/javac||')
 
 build:
-	MAVEN_OPTS="-Xmx1024m -XX:MaxPermSize=512m" mvn -Dmaven.repo.local=${HOME}/.m2/repository clean package
-
 	mv allure-cli-deb/target/lib/allure-cli-*.jar allure-cli-deb/target/allure-cli.jar
 clean::
-	mvn -Dmaven.repo.local=${HOME}/.m2/repository clean
+	rm allure-cli-deb/target/allure-cli.jar || true

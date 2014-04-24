@@ -2,9 +2,10 @@ Source: allure-cli
 Section: misc
 Priority: extra
 Maintainer: Ivan Krutov <vania-pooh@yandex-team.ru>
-Build-Depends: cdbs, debhelper (>= 7.0.50~), maven | maven2 | maven3
+Build-Depends: cdbs, debhelper (>= 7.0.50~)
 Homepage: http://allure.qatools.ru/
 Vcs-Git: git@github.com:allure-framework/allure-core-deb.git
+Standards-Version: 3.9.1
 
 Package: allure-cli
 Architecture: all
