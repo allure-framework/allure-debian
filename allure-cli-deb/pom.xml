@@ -16,7 +16,7 @@
         <dependency>
             <groupId>ru.yandex.qatools.allure</groupId>
             <artifactId>allure-cli</artifactId>
-            <version>${allure.version}</version>
+            <version>${allure.cli.version}</version>
         </dependency>
     </dependencies>
 
