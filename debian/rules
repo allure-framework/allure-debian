@@ -1,21 +1,3 @@
 #!/usr/bin/make -f
 
 include /usr/share/cdbs/1/rules/debhelper.mk
-
-# Add here any variable or target overrides you need.
-PACKAGE := $(DEB_SOURCE_PACKAGE)
-
-VERSION := $(shell dpkg-parsechangelog | sed -ne 's/^Version: \([0-9.]*\).*/\1/p')
-IS_SNAPSHOT := $(shell dpkg-parsechangelog | sed -ne 's/^Version: .*\(SNAPSHOT\).*/\1/p')
-ifeq ($(strip $(IS_SNAPSHOT)),SNAPSHOT)
-    VERSION := $(VERSION)-SNAPSHOT
-endif
-
-DEB_DH_INSTALLINIT_ARGS := --no-start
-
-JAVA_HOME := $(shell update-alternatives --query javac | grep Best: | cut -d " " -f2 | sed 's|/bin/javac||')
-
-build:
-	mv allure-cli-deb/target/lib/allure-cli-*.jar allure-cli-deb/target/allure-cli.jar
-clean::
-	rm allure-cli-deb/target/allure-cli.jar || true
