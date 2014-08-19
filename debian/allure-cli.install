@@ -1,3 +1,2 @@
-allure-cli-deb/target/allure-cli.jar usr/share/allure/allure-cli
-allure-cli-deb/target/lib usr/share/allure/allure-cli
-allure-cli-deb/files/allure usr/bin
+allure-cli/lib/allure-cli.jar usr/share/allure/allure-cli/lib
+allure-cli/bin/allure usr/share/allure/allure-cli/bin
