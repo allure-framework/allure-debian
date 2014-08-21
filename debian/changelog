@@ -1,3 +1,9 @@
+allure-cli (2.1-1) precise; urgency=low
+
+  * Updated to Allure CLI to 2.1
+
+ -- Ivan Krutov <vania-pooh@yandex-team.ru>  Wed, 30 Jul 2014 22:16:00 +0400
+
 allure-cli (2.0-3) precise; urgency=low
 
   * Added prerm script
