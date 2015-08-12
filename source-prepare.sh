@@ -5,5 +5,5 @@ fi
 if [[ -f allure-cli.zip ]]; then
     rm allure-cli.zip
 fi
-wget https://github.com/allure-framework/allure-cli/releases/download/allure-cli-2.3/allure-cli.zip
+wget https://github.com/allure-framework/allure-cli/releases/download/allure-cli-2.4/allure-cli.zip
 unzip allure-cli.zip -d allure-cli
