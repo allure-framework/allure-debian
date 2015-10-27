@@ -1,9 +1,9 @@
 #!/bin/bash
-if [[ -d allure-cli ]]; then
-    rm -Rf allure-cli
+if [[ -d allure-commandline ]]; then
+    rm -Rf allure-commandline
 fi
-if [[ -f allure-cli.zip ]]; then
-    rm allure-cli.zip
+if [[ -f allure-commandline.zip ]]; then
+    rm allure-commandline.zip
 fi
-wget https://github.com/allure-framework/allure-cli/releases/download/allure-cli-2.4/allure-cli.zip
-unzip allure-cli.zip -d allure-cli
+wget https://github.com/allure-framework/allure-core/releases/download/allure-core-1.4.18/allure-commandline.zip
+unzip allure-commandline.zip -d allure-commandline

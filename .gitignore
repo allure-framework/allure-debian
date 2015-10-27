@@ -1,2 +1,9 @@
-target
-allure-cli-deb/target
+allure-commandline.zip
+#IDEA Files
+.idea
+
+#Eclipse files
+*.settings
+*.classpath
+*.project
+*.pydevproject

@@ -1,13 +1,12 @@
-Source: allure-cli
+Source: allure-commandline
 Section: misc
 Priority: extra
 Maintainer: Ivan Krutov <vania-pooh@yandex-team.ru>
 Build-Depends: cdbs, debhelper (>= 7.0.50~)
 Homepage: http://allure.qatools.ru/
-Vcs-Git: git@github.com:allure-framework/allure-core-deb.git
 Standards-Version: 3.9.1
 
-Package: allure-cli
+Package: allure-commandline
 Architecture: all
 Depends: ${misc:Depends}, openjdk7-jre-headless | openjdk-7-jre | openjdk-7-jdk | oracle-java7-installer | oracle-java8-installer 
 Description: Allure Framework command-line client
