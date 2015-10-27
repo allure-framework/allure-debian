@@ -7,5 +7,5 @@ $ ./source-prepare.sh && debuild -S
 ```
 When package is built you should upload package to LaunchPad server via the following command:
 ```
-$ dput ppa:yandex-qatools/allure-framework ../allure-cli-<version>.changes
+$ dput ppa:yandex-qatools/allure-framework ../allure-commandline-<version>.changes
 ```
