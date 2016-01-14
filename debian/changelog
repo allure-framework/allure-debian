@@ -1,3 +1,9 @@
+allure-commandline (1.4.20-1) trusty; urgency=low
+
+  * you can find the full list of changes here https://github.com/allure-framework/allure-core/releases/tag/allure-core-1.4.20
+
+ -- Ivan Krutov <vania-pooh@yandex-team.ru>  Thu, 14 Jan 2016 12:00:00 +0400
+
 allure-commandline (1.4.19-1) trusty; urgency=low
 
   * you can find the full list of changes here https://github.com/allure-framework/allure-core/releases/tag/allure-core-1.4.19
