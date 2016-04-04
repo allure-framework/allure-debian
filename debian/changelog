@@ -2,7 +2,7 @@ allure-commandline (1.4.23-2) trusty; urgency=low
 
   * Upgrade to 1.4.23 (fixes code version)
 
- -- Ivan Krutov <vania-pooh@yandex-team.ru>  Mon 03 April 2016 12:00:00 +0400
+ -- Ivan Krutov <vania-pooh@yandex-team.ru>  Mon, 04 April 2016 12:00:00 +0400
 
 allure-commandline (1.4.23-1) trusty; urgency=low
 
