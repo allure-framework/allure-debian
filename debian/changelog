@@ -1,3 +1,9 @@
+allure-commandline (1.4.23.HOTFIX1-1) trusty; urgency=low
+
+  * Upgrade to 1.4.23.HOTFIX1
+
+ -- Ivan Krutov <vania-pooh@yandex-team.ru>  Wed, 17 Aug 2016 12:00:00 +0400
+
 allure-commandline (1.4.23-2) trusty; urgency=low
 
   * Upgrade to 1.4.23 (fixes code version)
