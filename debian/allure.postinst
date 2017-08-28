@@ -22,7 +22,7 @@ set -e
 case "$1" in
     configure)
 
-        ln -s /usr/share/allure/allure-commandline/bin/allure /usr/bin/allure
+        ln -s /usr/share/allure/bin/allure /usr/bin/allure
 
     ;;
 

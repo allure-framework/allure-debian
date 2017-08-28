@@ -1,8 +1,10 @@
-allure-commandline.zip
-#IDEA Files
+# Idea files
 .idea
 
-#Eclipse files
+# Project
+target
+
+# Eclipse files
 *.settings
 *.classpath
 *.project

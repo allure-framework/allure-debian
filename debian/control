@@ -1,13 +1,13 @@
-Source: allure-commandline
+Source: allure
 Section: misc
 Priority: extra
-Maintainer: Ivan Krutov <vania-pooh@yandex-team.ru>
+Maintainer: Artem Eroshenko <eroshenkoam@qameta.io>
 Build-Depends: cdbs, debhelper (>= 7.0.50~)
 Homepage: http://allure.qatools.ru/
 Standards-Version: 3.9.1
 
-Package: allure-commandline
+Package: allure
 Architecture: all
-Depends: ${misc:Depends}, java7-runtime | java7-runtime-headless | openjdk7-jre-headless | openjdk-7-jre | openjdk-7-jdk | oracle-java7-installer | oracle-java8-installer 
-Description: Allure Framework command-line client
- Allure Framework command-line client package
+Depends: ${misc:Depends}, java8-runtime | java8-runtime-headless | openjdk8-jre-headless | openjdk-8-jre | openjdk-8-jdk | oracle-java8-installer | oracle-java8-installer
+Description: Allure Report client
+ Allure Report client package

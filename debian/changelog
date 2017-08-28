@@ -1,42 +1,17 @@
-allure-commandline (1.4.23.HOTFIX1-2) trusty; urgency=low
+allure (2.3.3~xenial) xenial; urgency=low
 
-  * Fixed Java dependencies
+  * https://github.com/allure-framework/allure2/releases/tag/2.3.3
 
- -- Ivan Krutov <vania-pooh@yandex-team.ru>  Thu, 18 Aug 2016 12:00:00 +0400
+ -- Artem Eroshenko <eroshenkoam@qameta.io>  Thu, 28 Aug 2017 12:00:00 +0400
 
-allure-commandline (1.4.23.HOTFIX1-1) trusty; urgency=low
+allure (2.3.2~xenial) xenial; urgency=low
 
-  * Upgrade to 1.4.23.HOTFIX1
+  * https://github.com/allure-framework/allure2/releases/tag/2.3.2
 
- -- Ivan Krutov <vania-pooh@yandex-team.ru>  Wed, 17 Aug 2016 12:00:00 +0400
+ -- Artem Eroshenko <eroshenkoam@qameta.io>  Thu, 28 Aug 2017 12:00:00 +0400
 
-allure-commandline (1.4.23-2) trusty; urgency=low
+allure (2.3.1~xenial) xenial; urgency=low
 
-  * Upgrade to 1.4.23 (fixes code version)
+  * https://github.com/allure-framework/allure2/releases/tag/2.3.1
 
- -- Ivan Krutov <vania-pooh@yandex-team.ru>  Mon, 04 April 2016 12:00:00 +0400
-
-allure-commandline (1.4.23-1) trusty; urgency=low
-
-  * Upgrade to 1.4.23-1
-
- -- Ivan Krutov <vania-pooh@yandex-team.ru>  Fri, 18 March 2016 12:00:00 +0400
-
-allure-commandline (1.4.20-1) trusty; urgency=low
-
-  * you can find the full list of changes here https://github.com/allure-framework/allure-core/releases/tag/allure-core-1.4.20
-
- -- Ivan Krutov <vania-pooh@yandex-team.ru>  Thu, 14 Jan 2016 12:00:00 +0400
-
-allure-commandline (1.4.19-1) trusty; urgency=low
-
-  * you can find the full list of changes here https://github.com/allure-framework/allure-core/releases/tag/allure-core-1.4.19
-
- -- Ivan Krutov <vania-pooh@yandex-team.ru>  Wed, 23 Apr 2014 12:00:00 +0400
-
-allure-commandline (1.4.18-1) precise; urgency=low
-
-  * Initial package version
-
- -- Ivan Krutov <vania-pooh@yandex-team.ru>  Wed, 23 Apr 2014 12:00:00 +0400
-
+ -- Artem Eroshenko <eroshenkoam@qameta.io>  Thu, 28 Aug 2017 12:00:00 +0400
