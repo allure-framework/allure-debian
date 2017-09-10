@@ -1,7 +1,7 @@
 #!/bin/bash
 
 WORK_DIR=target
-ALLURE_VERSION=2.3.4
+ALLURE_VERSION=2.3.5
 
 if [[ ! -d ${WORK_DIR} ]]; then
     mkdir ${WORK_DIR}

@@ -1,22 +1,28 @@
-allure (2.3.4~trusty) trusty; urgency=low
+allure (2.3.5~xenial) xenial; urgency=low
+
+  * https://github.com/allure-framework/allure2/releases/tag/2.3.5
+
+ -- Artem Eroshenko <eroshenkoam@qameta.io>  Thu, 28 Aug 2017 12:00:00 +0400
+
+allure (2.3.4~xenial) xenial; urgency=low
 
   * https://github.com/allure-framework/allure2/releases/tag/2.3.4
 
  -- Artem Eroshenko <eroshenkoam@qameta.io>  Thu, 28 Aug 2017 12:00:00 +0400
 
-allure (2.3.3~trusty) trusty; urgency=low
+allure (2.3.3~xenial) xenial; urgency=low
 
   * https://github.com/allure-framework/allure2/releases/tag/2.3.3
 
  -- Artem Eroshenko <eroshenkoam@qameta.io>  Thu, 28 Aug 2017 12:00:00 +0400
 
-allure (2.3.2~trusty) trusty; urgency=low
+allure (2.3.2~xenial) xenial; urgency=low
 
   * https://github.com/allure-framework/allure2/releases/tag/2.3.2
 
  -- Artem Eroshenko <eroshenkoam@qameta.io>  Thu, 28 Aug 2017 12:00:00 +0400
 
-allure (2.3.1~trusty) trusty; urgency=low
+allure (2.3.1~xenial) xenial; urgency=low
 
   * https://github.com/allure-framework/allure2/releases/tag/2.3.1
 
