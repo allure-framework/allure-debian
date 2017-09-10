@@ -1,8 +1,11 @@
 # Idea files
 .idea
 
-# Project
+# Project files
 target
+
+# User files
+.gnupg
 
 # Eclipse files
 *.settings
