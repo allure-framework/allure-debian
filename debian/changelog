@@ -1,3 +1,9 @@
+allure (2.6.0~stretch) xenial; urgency=low
+
+  * https://github.com/allure-framework/allure2/releases/tag/2.6.0
+
+ -- Artem Eroshenko <eroshenkoam@qameta.io>  Thu, 22 Mar 2018 12:00:00 +0400
+
 allure (2.3.5~xenial) xenial; urgency=low
 
   * https://github.com/allure-framework/allure2/releases/tag/2.3.5
